@@ -1,5 +1,7 @@
 #Filesystem Hierarchy Standart##
 
+![](https://d37djvu3ytnwxt.cloudfront.net/asset-v1:LinuxFoundationX+LFS101x.2+1T2015+type@asset+block/chapter03_flowchart_scr05.jpg)
+
 **bin**        - (BINaries) основные исполняемые файлы. Для использования всеми
                   пользователями. Не может быть поддиректорий.
 
